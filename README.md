@@ -166,4 +166,15 @@ This document details every architectural, memory, audio, rendering, UI, and pac
 * **[iOS & iPadOS Technical Port Fixes](IOS_PORT_FIXES.md)** — Architecture notes, Jetsam RAM optimizations, MoltenVK decal shader fixes, and touch UI details.
 * **[Build & Sideloading Guide](BUILD_AND_SIDELOAD.md)** — Step-by-step instructions to build the `.ipa` and install via SideStore, AltStore, FlairStore, or LiveContainer.
 
+## Credits & Acknowledgements
+
+This iOS & iPadOS port builds upon the foundational work of the following upstream projects and developers:
+
+* **[TGP482/SCDA-XBERecomp]([https://github.com](https://github.com/TGP482/SCDA-XBERecomp))** & **Joshhhuaaa** — Creators of `SCDA-XBERecomp` and `XboxXBE-Recomp`, designing the static recompilation framework, Xbox kernel/Direct3D8/DirectSound HLE layers, and the original PC port.
+* **[aminerochdi1/SCDA-XBERecomp-MacOSPort]([https://github.com](https://github.com/aminerochdi1/SCDA-XBERecomp-MacOSPort))** (**ROCHDI MOHAMMED AMINE**) — Native macOS Apple Silicon (ARM64) port, Darwin platform abstraction, SDL3 input/audio integration, and initial MoltenVK shadow fixes.
+* **[mogeldev/SCDA-XBERecomp-android](https://github.com/mogeldev/SCDA-XBERecomp-android)]** — Mobile ARM64 port architecture and on-screen touch control design inspiration.
+* **Khronos Group & MoltenVK** — Vulkan-to-Metal translation layer enabling hardware-accelerated rendering on iOS and iPadOS.
+* **libsdl-org / SDL3** — Cross-platform windowing, audio, gamepad, and multi-touch input handling.
+* **Ubisoft Montreal** — Original creators of *Tom Clancy's Splinter Cell: Double Agent* (Original Xbox / Version 2).
+
 > **Legal Notice:** This repository contains no copyrighted game assets (`default.xbe`, `.umd`, `.lin`, `.ss2`, `.bik`). You must provide your own legally dumped retail Xbox copy of *Tom Clancy's Splinter Cell: Double Agent for Original Xbox (Xbox Classic)*.
