@@ -1,0 +1,48 @@
+# build and binaries
+/out/
+/build/
+build*/SCDA
+build*/SCDA_Versus
+build*/hdd/
+build*/shadercache/
+build*/logs/
+build*/frame_*
+build*/screenshot.png
+*.zip
+*.pdb
+*.exe
+*.obj
+*.o
+*.ppm
+
+# macOS metadata
+.DS_Store
+*.DS_Store
+**/.DS_Store
+
+# recompiled code, derived from the game
+/generated/
+
+# user's own game files
+/assets/*
+!/assets/*.jpeg
+!/assets/*.jpg
+!/assets/*.png
+
+# runtime files
+scda.toml
+/logs/
+/hdd/
+/CrashDumps/
+/shadercache/
+
+# editors
+.vs/
+.vscode/
+.idea/
+
+# Local temporary folder
+.local
+
+# local CMake build folders
+/build-*/
