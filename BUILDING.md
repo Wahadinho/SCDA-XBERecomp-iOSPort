@@ -26,7 +26,7 @@ First, clone the repository and compile the native macOS host utilities (`extrac
 
 1. **Clone the repository:**
    ```bash
-   git clone --recursive https://github.com/<your-username>/SCDA-XBERecomp-iOSPort.git
+   git clone --recursive https://github.com/Wahadinho/SCDA-XBERecomp-iOSPort.git
    cd SCDA-XBERecomp-iOSPort
    ```
 2. **Build `extract_xbe` and `xbe_recomp`:**
