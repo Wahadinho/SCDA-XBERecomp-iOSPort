@@ -30,7 +30,7 @@ This generates two unsigned `.ipa` files on your Desktop:
 3. Copy your `assets` folder (containing `default.xbe` and the `Default` folder) directly into that directory so the path is `Splinter Cell: Double Agent/assets/default.xbe`.
 4. Launch the app from your Home Screen.
 
-### Method B: FlairStore / Feather / TrollStore / LiveContainer (All-in-One IPA)
+### Method B: FlareStore / Feather / TrollStore / LiveContainer (All-in-One IPA)
 1. Import **`SCDA_iOS_Unsigned.ipa`** into your signing tool (FlairStore, Feather, ESign, TrollStore, or LiveContainer), sign with your certificate, and install.
 2. Launch directly from the Home Screen — no extra file copying is required.
 
