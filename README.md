@@ -23,4 +23,4 @@ Xbox DirectSound / Input ──► SDL3 Audio & Touch / Gamepad Layer
 * **[iOS & iPadOS Technical Port Fixes](IOS_PORT_FIXES.md)** — Architecture notes, Jetsam RAM optimizations, MoltenVK decal shader fixes, and touch UI details.
 * **[Build & Sideloading Guide](BUILD_AND_SIDELOAD.md)** — Step-by-step instructions to build the `.ipa` and install via SideStore, AltStore, FlairStore, or LiveContainer.
 
-> **Legal Notice:** This repository contains no copyrighted game assets (`default.xbe`, `.umd`, `.lin`, `.ss2`, `.bik`). You must provide your own legally dumped retail Xbox copy of *Tom Clancy's Splinter Cell: Double Agent*.
+> **Legal Notice:** This repository contains no copyrighted game assets (`default.xbe`, `.umd`, `.lin`, `.ss2`, `.bik`). You must provide your own legally dumped retail Xbox copy of *Tom Clancy's Splinter Cell: Double Agent for Original Xbox (Xbox Classic)*.
