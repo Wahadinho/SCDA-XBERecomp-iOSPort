@@ -177,4 +177,8 @@ This iOS & iPadOS port builds upon the foundational work of the following upstre
 - **libsdl-org / SDL3** — Cross-platform windowing, audio, gamepad, and multi-touch input handling.
 - **Ubisoft Montreal** — Original creators of *Tom Clancy's Splinter Cell: Double Agent* (Original Xbox / Version 2).
 
+## AI Assistance Disclaimer
+
+Parts of the iOS/iPadOS platform adaptation, Objective-C++ / UIKit integration, touch-control overlay, build scripts, and documentation in this repository were developed with the assistance of AI coding tools. All generated code, build configurations, and runtime changes were manually reviewed, adapted, and tested on real Apple hardware (iPhone and iPad).
+
 > **Legal Notice:** This repository contains no copyrighted game assets (`default.xbe`, `.umd`, `.lin`, `.ss2`, `.bik`). You must provide your own legally dumped retail Xbox copy of *Tom Clancy's Splinter Cell: Double Agent for Original Xbox (Xbox Classic)*.
