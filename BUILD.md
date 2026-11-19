@@ -26,7 +26,7 @@ This repository includes the pre-generated static C++ recompilation sources unde
 
 1. **Clone the repository:**
    ```bash
-   git clone --recursive [https://github.com/Wahadinho/SCDA-XBERecomp-iOSPort.git](https://github.com/Wahadinho/SCDA-XBERecomp-iOSPort.git)
+   git clone --recursive https://github.com/Wahadinho/SCDA-XBERecomp-iOSPort.git
    cd SCDA-XBERecomp-iOSPort
    ```
 2. **Create the `assets/` folder and extract your Xbox `.iso`:**
