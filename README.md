@@ -18,7 +18,7 @@ Xbox DirectSound / Input ──► SDL3 Audio & Touch / Gamepad Layer
 
 ## Documentation
 * **[Current Status & Roadmap](CURRENT_STATUS.md)** — Detailed breakdown of what works, disabled features (microphone), known limitations, and planned touch UI redesign.
-* **[Building from Source](BUILDING.md)** — Full step-by-step instructions to extract Xbox assets, generate the Xcode project, and compile `.ipa` packages.
+* **[Building from Source](BUILD.md)** — Full step-by-step instructions to extract Xbox assets, generate the Xcode project, and compile `.ipa` packages.
 * **[Player & Installation Guide](USER_GUIDE.md)** — Sideloading instructions, touch layout editor guide, and troubleshooting.
 * **[iOS & iPadOS Technical Port Fixes](IOS_PORT_FIXES.md)** — Architecture notes, Jetsam RAM optimizations, MoltenVK decal shader fixes, and touch UI details.
 * **[Build & Sideloading Guide](BUILD_AND_SIDELOAD.md)** — Step-by-step instructions to build the `.ipa` and install via SideStore, AltStore, FlairStore, or LiveContainer.
